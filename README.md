@@ -19,6 +19,10 @@ En Postman: <br>
 POST https://parcialmutantes-1o7z.onrender.com/mutant <br> 
 GET https://parcialmutantes-1o7z.onrender.com/stats <br>
 <br>
+De manera local:<br>
+POST localhost8080/mutant <br>
+GET localhost8080/stats <br>
+<br>
 ### Ejemplos: <br>
 
 Mutante en Filas: {

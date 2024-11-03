@@ -12,9 +12,12 @@ Como parametro recibimos un array de Strings.
 
 Podremos acceder al proyecto mediante el siguiente link: 
 [Proyecto Mutantes](https://parcialmutantes-1o7z.onrender.com)<br>
-Con /stats y /mutant, podremos acceder a los distintos apartados solicitados<br>
 
 Otra manera de acceder al proyecto es Decargar el zip, extraer, abrir con intelliJ y ejecutar el main, una vez que la consola devuelva el mensaje "Funcionando", ademas podemos utilizar tanto la base de datos H2, como tambien Postman.<br>
+
+En Postman: <br>
+POST https://parcialmutantes-1o7z.onrender.com/mutant <br> 
+GET https://parcialmutantes-1o7z.onrender.com/stats <br>
 <br>
 ### Ejemplos: <br>
 

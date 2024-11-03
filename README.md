@@ -22,7 +22,8 @@ Mutante en Filas: {
   "dna": ["AAAATG","TGCAGT","GCTTCC","CCCCTG","GTAGTC","AGTCAC"]
   }<br>
 
-Mutante en Diagonal: { "dna": ["GGTGTG", "TCGCCG", "CCAAAA", "ACTGAT", "GCCAGC", "CTACTA"] }<br>
+Mutante en Diagonal: { "dna": ["AGAATG","TACAGT","GCAGCC","TTGATG","GTAGTC","AGTCAA"]
+        }; }<br>
 
 No mutante: { "dna": ["AATATG","TGCAGT","GCTTCG","CGCCGG","GTAGTC","AGTGAC"] 
 }<br>
